@@ -1,0 +1,24 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "0l1v3rof@googlemail.com",
+    "longName": "watchbase",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/imagine.ttf",
+                "name": "IMAGINE_42",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "watchbase",
+    "uuid": "2bf9fec5-4106-4f97-bb41-ae31318733ac",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
